@@ -329,9 +329,12 @@ Feel free to open an issue or discussion!
 6. **Test with different data**: Consider edge cases and NULL values
 
 
-## 📈 Current Status
-
 - [x] LeetCode Problems (DSA)
+   - [x] 1. Two Sum (C++)
+   - [x] 2. Add Two Numbers (C++)
+   - [x] 3. Longest Substring Without Repeating Characters (C++)
+   - [x] 4. Median of Two Sorted Arrays (C++)
+   - [x] 5. Longest Palindromic Substring (C++)
    - [x] 6. Zigzag Conversion (C++)
    - [x] 7. Reverse Integer (C++)
 - [ ] LeetCode SQL Problems
