@@ -1,3 +1,19 @@
+
+<p align="center">
+   <!-- LeetCode Banner -->
+   <img src="https://github.com/Ali7040/LeetCode_Solutions/assets/81979505/17f82d57-47cb-4e25-bec7-c332b617a26a" alt="LeetCode Banner" width="350"/>
+</p>
+
+<p align="center">
+   <!-- HackerRank Banner (replace with your own image if available) -->
+   <img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Banner" width="350"/>
+</p>
+
+<p align="center">
+   <!-- Other Platforms Banner (replace with your own image if available) -->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Other Platforms Banner" width="120"/>
+</p>
+
 # DSA & SQL Problem Solving Journey 🚀
 
 Welcome to my Data Structures and Algorithms (DSA) and SQL problem-solving repository! This is a collection of my solutions to various coding challenges from platforms like **LeetCode**, **HackerRank**, and other competitive programming sites.
