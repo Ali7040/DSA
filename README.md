@@ -328,9 +328,21 @@ Feel free to open an issue or discussion!
 5. **Use CTEs**: They make complex queries more readable
 6. **Test with different data**: Consider edge cases and NULL values
 
+
 ## 📈 Current Status
 
-*This section will be updated as I progress through my DSA journey.*
+- [x] LeetCode Problems (DSA)
+   - [x] 6. Zigzag Conversion (C++)
+   - [x] 7. Reverse Integer (C++)
+- [ ] LeetCode SQL Problems
+- [ ] HackerRank Challenges (DSA)
+- [ ] HackerRank SQL Challenges
+- [ ] Other Platform Problems
+- [ ] Language-specific optimizations
+- [ ] SQL query optimizations
+- [ ] Complexity analysis documentation
+
+*Progress: LeetCode 6. Zigzag Conversion (C++) and 7. Reverse Integer (C++) solved and documented. This section will be updated as I progress through my DSA journey.*
 
 ---
 
