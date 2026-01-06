@@ -337,6 +337,7 @@ Feel free to open an issue or discussion!
    - [x] 5. Longest Palindromic Substring (C++)
    - [x] 6. Zigzag Conversion (C++)
    - [x] 7. Reverse Integer (C++)
+   - [x] 8. String to Integer (atoi) (C++)
 - [ ] LeetCode SQL Problems
 - [ ] HackerRank Challenges (DSA)
 - [ ] HackerRank SQL Challenges
@@ -345,7 +346,8 @@ Feel free to open an issue or discussion!
 - [ ] SQL query optimizations
 - [ ] Complexity analysis documentation
 
-*Progress: LeetCode 6. Zigzag Conversion (C++) and 7. Reverse Integer (C++) solved and documented. This section will be updated as I progress through my DSA journey.*
+
+*Progress: LeetCode 8. String to Integer (atoi) (C++) solved and documented. This classic parsing problem required careful handling of whitespace, sign, and integer overflow. See the new solution in leetcode/medium/arrays-strings/cpp/0008-string-to-integer-atoi.cpp. This section will be updated as I progress through my DSA journey.*
 
 ---
 
