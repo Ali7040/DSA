@@ -338,6 +338,7 @@ Feel free to open an issue or discussion!
    - [x] 6. Zigzag Conversion (C++)
    - [x] 7. Reverse Integer (C++)
    - [x] 8. String to Integer (atoi) (C++)
+   - [x] 9. Palindrome Number (C++)
 - [ ] LeetCode SQL Problems
 - [ ] HackerRank Challenges (DSA)
 - [ ] HackerRank SQL Challenges
@@ -347,7 +348,7 @@ Feel free to open an issue or discussion!
 - [ ] Complexity analysis documentation
 
 
-*Progress: LeetCode 8. String to Integer (atoi) (C++) solved and documented. This classic parsing problem required careful handling of whitespace, sign, and integer overflow. See the new solution in leetcode/medium/arrays-strings/cpp/0008-string-to-integer-atoi.cpp. This section will be updated as I progress through my DSA journey.*
+*Progress: LeetCode 9. Palindrome Number (C++) solved and documented. Two solutions are provided: one using reverse-half comparison (O(1) space, optimal) and one using a stack (O(log₁₀x) space). Complexity analysis and optimal solution reasoning are included. See leetcode/easy/arrays-strings/cpp/0009-palindrome-number.cpp for details. This section will be updated as I progress through my DSA journey.*
 
 ---
 
