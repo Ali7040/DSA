@@ -290,6 +290,7 @@ Each solution includes:
    - [x] 7. Reverse Integer (C++)
    - [x] 8. String to Integer (atoi) (C++)
    - [x] 9. Palindrome Number (C++)
+   - [x] 10. Regular Expression Matching (C++)
 - [ ] LeetCode SQL Problems
 - [ ] HackerRank Challenges (DSA)
 - [x] HackerRank SQL Challenges
@@ -366,7 +367,7 @@ Feel free to open an issue or discussion!
 
 
 
-*Progress: LeetCode 9. Palindrome Number (C++) solved and documented. Two solutions are provided: one using reverse-half comparison (O(1) space, optimal) and one using a stack (O(log₁₀x) space). Complexity analysis and optimal solution reasoning are included. See leetcode/easy/arrays-strings/cpp/0009-palindrome-number.cpp for details. This section will be updated as I progress through my DSA journey.*
+*Progress: LeetCode 10. Regular Expression Matching (C++) solved and documented. The solution uses dynamic programming to handle '.' and '*' wildcards, ensuring full string match. Complexity analysis and optimal solution reasoning are included. See leetcode/medium/arrays-strings/cpp/0010-regular-expression-matching.cpp for details. This section will be updated as I progress through my DSA journey.*
 
 *Progress: Hackerrank SQL Basic Select problems solved and documented. Solutions include Revising the Select Query I & II, Select All, and Select By ID, each with problem statement, solution, and complexity analysis. See sql/hackerrank/basic/ for details. This section will be updated as I progress through my SQL journey.*
 
