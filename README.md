@@ -292,6 +292,10 @@ Each solution includes:
    - [x] 9. Palindrome Number (C++)
    - [x] 10. Regular Expression Matching (C++)
    - [x] 11. Container With Most Water (C++)
+   - [x] 12. Integer to Roman (C++)
+   - [x] 13. Roman to Integer (C++)
+   - [x] 14. Longest Common Prefix (Python)
+   - [x] 15. 3Sum (C++)
 - [ ] LeetCode SQL Problems
 - [ ] HackerRank Challenges (DSA)
 - [x] HackerRank SQL Challenges
